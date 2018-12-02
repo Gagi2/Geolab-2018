@@ -1,0 +1,88 @@
+/*Base classes*/
+.display-inline-block{
+	display: inline-block;
+}
+.container{
+	margin-left:30px;
+}
+.navigation-a{
+	color: #3D58A6;
+	font-size:22px;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.logo{
+	width:100px;
+	vertical-align: middle;
+}
+.naviagtion{
+    margin-left: 15px;
+	vertical-align: middle;
+}
+.active{
+	color: #EE4036;
+}
+.navigation-li{
+	margin-left: 40px;
+}
+
+.banner{
+	margin-top:78px;
+}
+.box{
+	background-color: #F2F2F2;
+	width:570px;
+	margin-right:30px;
+	padding: 15px 15px 30px 15px;
+}
+.image{
+	height: 132px;
+}
+.text-after-image{
+	width:345px;
+	vertical-align: top;
+}
+.divider{
+   background:#3D58A6; 
+   height:30px;
+   width:2px;
+   margin:0 10px 0 10px;
+}
+.social-image{
+	height: 30px;
+}
+.number{
+	background: #3D58A6;
+	display:inline-block;
+	padding: 10px;
+	color:#fff;
+}
+.test{
+	background: red;
+	width:100px;
+	height:100px;
+	padding: 20px;
+
+}
+a{
+	color:inherit;
+}
+h3{
+	color:blue;
+}
+.active-a{
+	color:aqua;
+}
+.text-font{
+  font-family: "BPG Ingiri Arial", sans-serif;
+}
+.text-font2{
+	font-family: "ALK Rex Bold", sans-serif;
+}
+.text-font3{
+/*	 font-family: 'Black Han Sans';*/
+}
+.text-font4{
+	 font-family: 'Roboto Mono',sans-serif;
+	 font-weight: 300;
+	 font-style: italic;
+}
